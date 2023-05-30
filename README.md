@@ -1,5 +1,3 @@
-# AzureFormRecognizer
-
 
 # AzureFormRecognizer
 
